@@ -28,7 +28,7 @@ dependencies {
     testImplementation("junit:junit:4.13")
 
     // This dependency is used by the application.
-    implementation("com.google.guava:guava:29.0-jre")
+    implementation("com.google.guava:guava:31.1-jre")
 }
 
 application {
