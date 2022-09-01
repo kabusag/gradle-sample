@@ -24,7 +24,7 @@ dependencies {
     testImplementation("org.codehaus.groovy:groovy-all:2.5.12")
 
     // Use the awesome Spock testing and specification framework even with Java
-    testImplementation("org.spockframework:spock-core:1.3-groovy-2.5")
+    testImplementation("org.spockframework:spock-core:2.2-groovy-4.0")
     testImplementation("junit:junit:4.13")
 
     // This dependency is used by the application.
