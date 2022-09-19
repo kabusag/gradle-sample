@@ -21,7 +21,7 @@ repositories {
 
 dependencies {
     // Use the latest Groovy version for Spock testing
-    testImplementation("org.codehaus.groovy:groovy-all:2.5.12")
+    testImplementation("org.codehaus.groovy:groovy-all:3.0.13")
 
     // Use the awesome Spock testing and specification framework even with Java
     testImplementation("org.spockframework:spock-core:1.3-groovy-2.5")
